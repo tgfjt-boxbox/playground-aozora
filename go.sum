@@ -1,0 +1,6 @@
+github.com/jszwec/csvutil v1.2.1 h1:9+vmGqMdYxIbeDmVbTrVryibx2izwHAfKdPwl4GPNHM=
+github.com/jszwec/csvutil v1.2.1/go.mod h1:8YHz6C3KVdIeCxLMvwbbIVDCTA/Wi2df93AZlQNaE2U=
+github.com/rakyll/statik v0.1.6 h1:uICcfUXpgqtw2VopbIncslhAmE5hwc4g20TEyEENBNs=
+github.com/rakyll/statik v0.1.6/go.mod h1:OEi9wJV/fMUAGx1eNjq75DKDsJVuEv1U0oYdX6GX8Zs=
+github.com/tgfjt/aozora v0.0.0-20191228134656-ef1923277845 h1:eL2/FfyWlK9Z80P/P57yLehh+k+yry/C0RLYEOulVo0=
+github.com/tgfjt/aozora v0.0.0-20191228134656-ef1923277845/go.mod h1:0ecA9Y0PoiIKup6MCLCxmtzLTWGeihk/wN01WJVIqQ0=
