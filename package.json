@@ -1,0 +1,28 @@
+{
+  "name": "playground-aozora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgfjt-boxbox/playground-aozora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgfjt-boxbox/playground-aozora/issues"
+  },
+  "homepage": "https://github.com/tgfjt-boxbox/playground-aozora#readme",
+  "dependencies": {
+    "faunadb": "^2.10.2",
+    "firebase": "^7.6.1",
+    "firebase-admin": "^8.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
